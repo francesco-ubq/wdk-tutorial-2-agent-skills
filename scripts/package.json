@@ -1,0 +1,15 @@
+{
+  "name": "wdk-wallet-demo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node wallet.js"
+  },
+  "dependencies": {
+    "@tetherto/wdk": "1.0.0-beta.18",
+    "@tetherto/wdk-wallet-btc": "1.0.0-beta.17",
+    "@tetherto/wdk-wallet-evm": "1.0.0-beta.20",
+    "@tetherto/wdk-wallet-tron": "1.0.0-beta.15"
+  }
+}

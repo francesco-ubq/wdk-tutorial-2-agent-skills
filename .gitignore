@@ -1,0 +1,9 @@
+node_modules/
+.env
+*.log
+
+# Never commit key material. The seed lives outside the repo and is passed as SEED_FILE.
+seed
+seed.txt
+*.seed
+.wdk/
